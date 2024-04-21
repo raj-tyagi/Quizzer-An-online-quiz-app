@@ -26,9 +26,6 @@ Quizzer is an Android application developed for conducting online quizzes. It al
 
 ## Screenshots
 
-## Screenshots
-## Screenshots
-
 <div style="display:flex; flex-wrap: wrap;">
     <img src="https://github.com/raj-tyagi/Quizzer-An-online-quiz-app/assets/110656539/68220b14-d810-48b6-96c2-3dacbde03178" alt="Screenshot 1" width="180" style="margin-right: 10px;">
     <img src="https://github.com/raj-tyagi/Quizzer-An-online-quiz-app/assets/110656539/cb04cb1d-873e-4fb5-bcbf-f22ccd0746ec" alt="Screenshot 2" width="180" style="margin-right: 10px;">
