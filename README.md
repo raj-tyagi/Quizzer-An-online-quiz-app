@@ -1,4 +1,4 @@
-# Quizzer---A-Quiz-App
+# Quizzer-An online quiz app
 
 Quizzer is an Android application developed for conducting online quizzes. It allows users to sign in, attempt multiple-choice questions (MCQs), submit answers, and view their scores. The application utilizes Firebase Authentication for user management and Firebase Realtime Database for storing quiz questions and user data.
 
