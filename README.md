@@ -15,6 +15,7 @@ Quizzer is an Android application developed for conducting online quizzes. It al
 - **Firebase Authentication**: Used for user authentication and management.
 - **Firebase Realtime Database**: Utilized to store quiz questions and user data in real-time.
 - **Kotlin**: The programming language used for developing the application.
+- **XML**: Utlized for the creation of UI
 
 ## Setup Instructions
 
